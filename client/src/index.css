@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Platypi:ital,wght@0,300..800;1,300..800&display=swap');
+
+:root {
+  --light-grey: #f1f2f3;
+  --medium-grey: #d3d1d1;
+  --light-dark-grey: #808080;
+  --crimson: #dc143c;
+  --light-olive: #bcb88a;
+  --dark-green: #556b2f;
+
+}
+
+body {
+  margin: 0;
+  font-family: "Platypi", serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: bisque;
+}
+
+code {
+  font-family: "Platypi", serif;
+}
